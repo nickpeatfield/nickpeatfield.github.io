@@ -1,1 +1,3 @@
-Hello World
+-- There is much to learn about doing this properly!
+- I hope that I get it some how.
+--- But it depends on stuff
